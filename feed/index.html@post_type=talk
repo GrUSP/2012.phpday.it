@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>phpDay 2012 &#187; Talks</title>
+	<atom:link href="http://2012.phpday.it/feed/?post_type=talk" rel="self" type="application/rss+xml" />
+	<link>http://2012.phpday.it</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 29 Jun 2012 11:07:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Deploying PHP web applications on Windows Azure</title>
+		<link>http://2012.phpday.it/talk/deploying-php-web-applications-on-windows-azure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deploying-php-web-applications-on-windows-azure</link>
+		<comments>http://2012.phpday.it/talk/deploying-php-web-applications-on-windows-azure/#comments</comments>
+		<pubDate>Thu, 05 Apr 2012 10:56:04 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=302</guid>
+		<description><![CDATA[PHP web applications are first class citizens in the Azure and WIndows Server ecosystems and Microsoft is providing great tools to simplify the development, deployment and management of PHP web applications in the cloud. In this session we will introduce the Azure platform, create and deploy web applications with the Windows Azure SDK for PHP, [...]]]></description>
+				<content:encoded><![CDATA[<p>PHP web applications are first class citizens in the Azure and WIndows Server ecosystems and Microsoft is providing great tools to simplify the development, deployment and management of PHP web applications in the cloud.<br />
+In this session we will introduce the Azure platform, create and deploy web applications with the Windows Azure SDK for PHP, talk about SQL Azure integration, Windows Azure Tools for Eclipse and more advanced topics including Windows Azure Service Bus samples</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/deploying-php-web-applications-on-windows-azure/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>eXtreme Automation</title>
+		<link>http://2012.phpday.it/talk/extreme-automation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=extreme-automation</link>
+		<comments>http://2012.phpday.it/talk/extreme-automation/#comments</comments>
+		<pubDate>Thu, 05 Apr 2012 10:27:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=300</guid>
+		<description><![CDATA[“A good programmer is a lazy programmer” è una frase nella quale ci piace identificarci, ma è davvero così? Spesso ci troviamo a ripetete le solite operazioni più e più volte, sprecando tempo e denaro. Il gioco in questo talk consiste nell’automatizzare il più possibile aiutati da macchine virtuali, strumenti di provisioning, build automation, deploy]]></description>
+				<content:encoded><![CDATA[<p>“A good programmer is a lazy programmer” è una frase nella quale ci piace identificarci, ma è davvero così? Spesso ci troviamo a ripetete le solite operazioni più e più volte, sprecando tempo e denaro. Il gioco in questo talk consiste nell’automatizzare il più possibile aiutati da macchine virtuali, strumenti di provisioning, build automation, deploy</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/extreme-automation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lazy Evaluation: stop wasting memory and time</title>
+		<link>http://2012.phpday.it/talk/lazy-evaluation-stop-wasting-memory-and-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lazy-evaluation-stop-wasting-memory-and-time</link>
+		<comments>http://2012.phpday.it/talk/lazy-evaluation-stop-wasting-memory-and-time/#comments</comments>
+		<pubDate>Thu, 05 Apr 2012 08:54:48 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=298</guid>
+		<description><![CDATA[Processing one billion database rows doesn&#8217;t need to kill your web server. Really, it doesn&#8217;t. Applying lazy evaluation ideas you can make your scripts handle as much data as there exists, never using more memory than one unit&#8217;s size (for example a database row). Using clever iterators, cursors and streams I&#8217;ll show you how you [...]]]></description>
+				<content:encoded><![CDATA[<p>Processing one billion database rows doesn&#8217;t need to kill your web server. Really, it doesn&#8217;t. Applying lazy evaluation ideas you can make your scripts handle as much data as there exists, never using more memory than one unit&#8217;s size (for example a database row). Using clever iterators, cursors and streams I&#8217;ll show you how you can reduce memory usage drastically, thus making your scripts more reliable and sysadmins happy.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/lazy-evaluation-stop-wasting-memory-and-time/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A quick start on Zend Framework 2</title>
+		<link>http://2012.phpday.it/talk/a-quick-start-on-zend-framework-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-quick-start-on-zend-framework-2</link>
+		<comments>http://2012.phpday.it/talk/a-quick-start-on-zend-framework-2/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:44:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=251</guid>
+		<description><![CDATA[In this talk we will present a simple web application built with Zend Framework 2. We will show the new features of the framework, such as the new MVC layer, the Event Manager, the Dependency Injection and much more. The aim of this talk is how to start programming with the new architecture of ZF2. [...]]]></description>
+				<content:encoded><![CDATA[<p>In this talk we will present a simple web application built with Zend Framework 2. We will show the new features of the framework, such as the new MVC layer, the Event Manager, the Dependency Injection and much more. The aim of this talk is how to start programming with the new architecture of ZF2. Moreover, we will show the differences with the version 1 of the framework and how to migrate applications from ZF1 to ZF2.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/a-quick-start-on-zend-framework-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PHPCR &#8211; PHP Content Repository Specification</title>
+		<link>http://2012.phpday.it/talk/phpcr-php-content-repository-specification/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phpcr-php-content-repository-specification</link>
+		<comments>http://2012.phpday.it/talk/phpcr-php-content-repository-specification/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:40:50 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=250</guid>
+		<description><![CDATA[The PHPCR specification is a port of the Java Content Repository specification to PHP. It defines an API that combines the power of NoSQL databases with hierarchical data structures and versioning, powerful search and other features. On top of Content repositories, like Midgard2 or Jackrabbit, developers can implement the API to provide generic access to [...]]]></description>
+				<content:encoded><![CDATA[<p>The PHPCR specification is a port of the Java Content Repository specification to PHP. It defines an API that combines the power of NoSQL databases with hierarchical data structures and versioning, powerful search and other features. On top of Content repositories, like Midgard2 or Jackrabbit, developers can implement the API to provide generic access to their content. Using PHPCR, applications can focus on the application logic and use the API to quickly implement CMS functionality and choose from the solution that best fits their server requirements and scalability needs to handle final persistence.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/phpcr-php-content-repository-specification/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting Started with Static Analysis using HipHop for PHP</title>
+		<link>http://2012.phpday.it/talk/getting-started-with-static-analysis-using-hiphop-for-php/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=getting-started-with-static-analysis-using-hiphop-for-php</link>
+		<comments>http://2012.phpday.it/talk/getting-started-with-static-analysis-using-hiphop-for-php/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:29:35 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=249</guid>
+		<description><![CDATA[Facebook’s HipHop for PHP can provide massive performance benefits, but it may not be feasible to use in your environment. However, it can be configured to provide static analysis of your code base, uncovering bugs and problems before they happen in production. This talk will provide an overview of HpHp’s benefits and limitations and how [...]]]></description>
+				<content:encoded><![CDATA[<p>Facebook’s HipHop for PHP can provide massive performance benefits, but it may not be feasible to use in your environment. However, it can be configured to provide static analysis of your code base, uncovering bugs and problems before they happen in production.  This talk will provide an overview of HpHp’s benefits and limitations and how static analysis works. Also covered will be how to integrate it with your build system, the type of bugs you’ll find (and how to fix them), and learn about it’s quirks.  Once you have it running, you’ll never see a &#8220;undefined variable&#8221; notice again (among with many others)!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/getting-started-with-static-analysis-using-hiphop-for-php/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Create your own PHP extension, step by step</title>
+		<link>http://2012.phpday.it/talk/create-your-own-php-extension-step-by-step/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=create-your-own-php-extension-step-by-step</link>
+		<comments>http://2012.phpday.it/talk/create-your-own-php-extension-step-by-step/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:28:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=248</guid>
+		<description><![CDATA[Ever been interested by contributing to the PHP core team? In this workshop you will not only learn how (easy it is) to create your own PHP extension from scratch but you will also strengthen your knowledge of PHP by disecting its internals. After this workshop, you will be able to create an extension on [...]]]></description>
+				<content:encoded><![CDATA[<p>Ever been interested by contributing to the PHP core team?<br />
+In this workshop you will not only learn how (easy it is) to create your own PHP extension from scratch but you will also strengthen your knowledge of PHP by disecting its internals.<br />
+After this workshop, you will be able to create an extension on your own, whether it is to optimize the most CPU intensive parts of your code, to create new bindings to C libraries or just to leverage your PHP knowledge.<br />
+And what if PHP was a web framework for the C developer?<br />
+This workshop requires a bit of C knowledge and preferably a *nix system.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/create-your-own-php-extension-step-by-step/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CLI, the other SAPI</title>
+		<link>http://2012.phpday.it/talk/cli-the-other-sapi/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cli-the-other-sapi</link>
+		<comments>http://2012.phpday.it/talk/cli-the-other-sapi/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:27:14 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=247</guid>
+		<description><![CDATA[Most developers use PHP in a web context and run their code via Apache. The command line interface (CLI) is another approach to run PHP without the overhead of your webserver.This talk not only illustrates the usage of the PHP binary, but also some use cases for which the CLI is the better tool. Keywords: [...]]]></description>
+				<content:encoded><![CDATA[<p>Most developers use PHP in a web context and run their code via Apache. The command line interface (CLI) is another approach to run PHP without the overhead of your webserver.This talk not only illustrates the usage of the PHP binary, but also some use cases for which the CLI is the better tool. Keywords: I/O, forking, signals, configuration, batch tasks, syntax validation, documentation, piping…</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/cli-the-other-sapi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designing HTTP Interfaces and RESTful Web Services</title>
+		<link>http://2012.phpday.it/talk/designing-http-interfaces-and-restful-web-services/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=designing-http-interfaces-and-restful-web-services</link>
+		<comments>http://2012.phpday.it/talk/designing-http-interfaces-and-restful-web-services/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:26:38 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=246</guid>
+		<description><![CDATA[A lot of Web Services today claim to be RESTful APIs. But are they really? Do the URLs accurately identify resources? Are the powers of HTTP leveraged properly? What is &#8220;hypermedia&#8221;, what is the Uniform Interface, and what is the secret behind the HATEOAS acronym that is so essential to the REST architectural style? This [...]]]></description>
+				<content:encoded><![CDATA[<p>A lot of Web Services today claim to be RESTful APIs. But are they really? Do the URLs accurately identify resources? Are the powers of HTTP leveraged properly? What is &#8220;hypermedia&#8221;, what is the Uniform Interface, and what is the secret behind the HATEOAS acronym that is so essential to the REST architectural style? This talk gives answers and guidelines using real-life examples.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/designing-http-interfaces-and-restful-web-services/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dependency Management with Composer</title>
+		<link>http://2012.phpday.it/talk/dependency-management-with-composer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dependency-management-with-composer</link>
+		<comments>http://2012.phpday.it/talk/dependency-management-with-composer/#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 13:26:08 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		
+		<guid isPermaLink="false">http://2012.phpday.it/?post_type=talk&#038;p=245</guid>
+		<description><![CDATA[Composer is a new PHP dependency manager. It resolves and downloads the packages your project requires. In this session you will learn how to use Composer to easily manage the libraries and other packages you use. We will go through the basics of dependency management and then move on towards publishing your own packages, be [...]]]></description>
+				<content:encoded><![CDATA[<p>Composer is a new PHP dependency manager. It resolves and downloads the packages your project requires.<br />
+In this session you will learn how to use Composer to easily manage the libraries and other packages you use. We will go through the basics of dependency management and then move on towards publishing your own packages, be it open source ones or closed company code that is used by multiple projects.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://2012.phpday.it/talk/dependency-management-with-composer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced (Requested URI contains query)
+Database Caching using disk: basic
+Object Caching 524/524 objects using disk: basic
+
+Served from: 2012.phpday.it @ 2017-11-06 07:39:11 -->
